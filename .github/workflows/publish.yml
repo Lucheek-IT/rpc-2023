@@ -18,11 +18,13 @@ jobs:
           cache: yarn
 
       - name: Build Site 👷
-        run: yarn docs:build
+        run: |
+          yarn install
+          yarn docs:build
 
       - name: Publish 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: website/.vuepress/dist
-          # cname: foo
+          # cname: rollypolly.party
