@@ -1,7 +1,9 @@
 import { defaultTheme } from '@vuepress/theme-default'
 
 export default {
+    title: 'RollyPolly Con',
     theme: defaultTheme({
+        logo: 'https://pbs.twimg.com/profile_images/1406981901563437062/4s2z3Csh_400x400.jpg',
         navbar: [
             { text: 'Home', link: '/' },
             { text: 'Attend', link: '/attend.html', },
