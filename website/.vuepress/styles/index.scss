@@ -14,6 +14,10 @@
   fill: var(--c-text-lightest);
 }
 
+.footer a:hover svg {
+  opacity: .8;
+}
+
 .card-deck {
   transition: border-color var(--t-color);
   padding: 1.2rem 0;
