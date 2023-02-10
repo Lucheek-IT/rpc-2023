@@ -28,13 +28,13 @@ Our mascots- **Rolly-Pollyanna** and **Pill-Bugsy**, are both home-bodies who pr
 <div class="card-deck">
     <div class="card-half">
         <h3>Rolly-Pollyanna</h3>
-        <img src="https://i0.wp.com/store.antisoftware.club/wp-content/uploads/2022/06/embroidered-patches-white-front-62b9e2bdb7861.png?fit=416%2C416&ssl=1">
+        <img src="https://via.placeholder.com/325?text=Go%20Cryptids!" alt="Rolly-Pollyanna">
         <p>Our blue mascot who uses she/her pronouns, is representing <span class="team-one">Team Cryptids!</span></p>
         <p class="quote">Strange and mysterious- Team Cryptids will strike fast when you least expect it! Ra-a-awr!</p>
     </div>
     <div class="card-half">
         <h3>Pill-Bugsy</h3>
-        <img src="https://i0.wp.com/store.antisoftware.club/wp-content/uploads/2022/06/kiss-cut-stickers-3x3-default-62ba46e03742a.png?fit=416%2C416&ssl=1">
+        <img src="https://via.placeholder.com/325?text=Beep%20Boop!" alt="Pill-Bugsy">
         <p>Our green mascot who uses they/them pronouns, is representing <span class="team-two">Team Robot!</span></p>
         <p class="quote">Super-charged and hyper-advanced- Team Robots is indestructible! Pew Pew Pew!</p>
     </div>
