@@ -2,7 +2,7 @@
 home: true
 title: Home
 description: Robots v Cryptids! September 3 - 4, 2023
-heroText: RollyPolly Con 2023
+heroText: null
 tagline: Join us online on September 3 & 4!
 heroImage: /home-banner.jpg
 # heroImageDark: 
@@ -19,7 +19,10 @@ actions:
 - text: Check the Schedule
   link: /schedule.md
   type: primary
-- text: Join the Discord
-  link: https://discord.com/some-invite-link
-  type: secondary
+- text: About RPC
+  link: /about.md
+  type: secondary 
+#- text: Join the Discord
+#  link: https://discord.com/some-invite-link
+#  type: primary
 ---

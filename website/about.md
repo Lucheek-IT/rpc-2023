@@ -41,6 +41,5 @@ Our mascots- **Rolly-Pollyanna** and **Pill-Bugsy**, are both home-bodies who pr
 </div>
 
 ## RPC on Social Media
-<!-- @TODO probably put this into the footer too -->
-- Twitter → https://twitter.com/RollyPollyCon
-- Tumblr → https://www.tumblr.com/rollypollycon
+- [Twitter](https://twitter.com/RollyPollyCon)
+- [Tumblr](https://www.tumblr.com/rollypollycon)
