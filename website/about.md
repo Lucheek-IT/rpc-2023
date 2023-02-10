@@ -14,7 +14,7 @@ RollyPolly Con's third event is happening September 2 – 3, 2023. The theme for
 
 ## The Competition
 <!-- @TODO: bold isn't enough for the team names, amp up the emphasis -->
-RollyPolly Con features a competition between two themed teams. Each team is made up of attendees, panelists, vendors, artists, and streamers. When you attend the convention you will be required to join a team! (Only staff is Team-Neutral!) Your team membership will be noted as a Discord Role, and can not be changed once selected. This event's teams are **TEAM CRYTPIDS** and **TEAM ROBOTS**!
+RollyPolly Con features a competition between two themed teams. Each team is made up of attendees, panelists, vendors, artists, and streamers. When you attend the convention you will be required to join a team! (Only staff is Team-Neutral!) Your team membership will be noted as a Discord Role, and can not be changed once selected. This event's teams are <span class="team-one">TEAM CRYTPIDS</span> and <span class="team-two">TEAM ROBOTS</span>!
 
 Teams will earn points during the convention. Points can be earned by winning and participating in convention competitions and contests, and panel/stream game  competitions. Points will be scaled to be proportional to team membership ratios, once the convention begins!
 
@@ -25,15 +25,20 @@ Remember! This is a friendly and playful competition meant to inspire participat
 ## The Mascots
 Our mascots- **Rolly-Pollyanna** and **Pill-Bugsy**, are both home-bodies who prefer a cozy night in a burrow to big convention halls. They know a good party is one where you feel comfortable, and thus, can really let loose. They're also best friends for life, but these isopods still love a good competition!!
 
-<!-- @TODO: This might look nice as cards, if there's some art for RP and PB? I don't like the blockquote much; lucheek's italics line from the doc is nicer than that. -->
-
-Rolly-Pollyanna, our blue mascot who uses she/her pronouns, is representing **Team Cryptids**! 
-
-> Strange and mysterious- Team Cryptids will strike fast when you least expect it! Ra-a-awr!
-
-Pill-Bugsy, our green mascot who uses they/them pronouns, is representing **Team Robots**!
-
-> Super-charged and hyper-advanced- Team Robots is indestructible! Pew Pew Pew!
+<div class="card-deck">
+    <div class="card-half">
+        <h3>Rolly-Pollyanna</h3>
+        <img src="https://i0.wp.com/store.antisoftware.club/wp-content/uploads/2022/06/embroidered-patches-white-front-62b9e2bdb7861.png?fit=416%2C416&ssl=1">
+        <p>Our blue mascot who uses she/her pronouns, is representing <span class="team-one">Team Cryptids!</span></p>
+        <p class="quote">Strange and mysterious- Team Cryptids will strike fast when you least expect it! Ra-a-awr!</p>
+    </div>
+    <div class="card-half">
+        <h3>Pill-Bugsy</h3>
+        <img src="https://i0.wp.com/store.antisoftware.club/wp-content/uploads/2022/06/kiss-cut-stickers-3x3-default-62ba46e03742a.png?fit=416%2C416&ssl=1">
+        <p>Our green mascot who uses they/them pronouns, is representing <span class="team-two">Team Robot!</span></p>
+        <p class="quote">Super-charged and hyper-advanced- Team Robots is indestructible! Pew Pew Pew!</p>
+    </div>
+</div>
 
 ## RPC on Social Media
 <!-- @TODO probably put this into the footer too -->
