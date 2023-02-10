@@ -13,18 +13,13 @@ export default {
         navbar: [
             { text: 'Home', link: '/' },
             { text: 'About', link: '/about' },
-            { text: 'Attend', link: '/attend.html', },
-            { text: 'Participate', link: '/participate.html', },
-            { text: 'Schedule', link: '/schedule.html' },
-            {
-                text: 'Events',
-                children: [
-                    '/events/foo-bar.md',
-                    { text: 'Latin', link: '/events/latin.md' },
-                ]
-            },
-            { text: 'Code of Conduct', link: '/conduct.html' },
-            { text: 'Envelope Shop', link: 'https://store.lucheek.com/' },
+            { text: 'Attend', link: '/attend', },
+            { text: 'Participate', link: '/participate', },
+            { text: 'Schedule', link: '/schedule' },
+            { text: 'Vendors & Creators', link: '/people' },
+            { text: 'Code of Conduct', link: '/conduct' },
+            // { text: 'Envelope Shop', link: 'https://store.lucheek.com/' },
+            // { text: 'Join the Discord', link: '#' },
         ],
         sidebar: false,
     }),
