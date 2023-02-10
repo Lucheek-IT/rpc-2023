@@ -14,6 +14,7 @@ export default {
             { text: 'Home', link: '/' },
             { text: 'About', link: '/about' },
             { text: 'Attend', link: '/attend.html', },
+            { text: 'Participate', link: '/participate.html', },
             { text: 'Schedule', link: '/schedule.html' },
             {
                 text: 'Events',
