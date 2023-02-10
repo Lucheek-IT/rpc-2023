@@ -1,0 +1,15 @@
+.footer a {
+  padding-left: 1rem;
+}
+
+.footer svg {
+  height: 2.25rem;
+}
+
+.icon {
+  fill: var(--c-text-lightest);
+}
+
+.footer a:hover svg {
+  opacity: .8;
+}

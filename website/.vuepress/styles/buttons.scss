@@ -1,0 +1,25 @@
+.btn {
+  display: inline-block;
+  font-size: 1.2rem;
+  padding: 0.8rem 1.6rem;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 4px;
+  transition: background-color var(--t-color);
+  box-sizing: border-box;
+}
+
+.btn-primary {
+  color: var(--c-bg);
+  background-color: var(--c-brand);
+  border-color: var(--c-brand);
+}
+
+.btn-primary:hover {
+  background-color: var(--c-brand-light);
+  opacity: 0.85;
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+}

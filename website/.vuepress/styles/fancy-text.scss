@@ -1,0 +1,43 @@
+.text-center {
+  text-align: center;
+}
+
+.quote {
+  font-style: italic;
+  color: var(--c-text-light);
+}
+
+.quote:before {
+  color: var(--c-text-lightest);
+  content: open-quote;
+  font-size: 2.5em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+  opacity: 0.5;
+}
+
+/**
+ * CSS knows if the quote has been closed and treats opening another without a closing quote with the nested quote.
+ *
+ * So this hidden closing quote resets it so subsequent uses of the quote class won't open with a ' character in the
+ * :before content.
+ */
+.quote:after {
+  content: close-quote;
+  visibility: hidden;
+}
+
+.team-one, .team-two {
+  font-weight: bold;
+  font-size: 1.0rem;
+  text-transform: uppercase;
+}
+
+.team-one {
+  text-shadow: var(--c-text-lightest) 1px -1px;
+}
+
+.team-two {
+  text-shadow: var(--c-text-lightest) -1px 1px;
+}
