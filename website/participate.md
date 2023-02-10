@@ -1,8 +1,6 @@
 # Participate
 ## Envelope Vendor ($35 USD, USA Only)
-- Applications Open until *(TBD)*
-- Limited to 6 Spots
-- Includes Physical Envelope Membership
+<small class="text-muted">Applications Open until *(TBD)* &#8226; Limited to 6 Spots &#8226; Includes Physical Envelope Membership</small>
 
 Envelope Vendors are the top featured vendors for RollyPolly Con! In addition to featured spots to promote their own personal store-fronts and commissions (if applicable) during the con- Envelope Vendors will submit artwork to Lucheek, who will turn the artwork into stickers! Envelope Members can buy these stickers during the convention, and have shipped all-together in their RollyPolly Con envelope! (When a con-goer doesn't have to pay for shipping for stickers from multiple sources, it can encourage them to buy more!) The creation, store-front, and shipping of the stickers is handled by Lucheek, Vendors don't have to worry about it. Best of all: 100% of the revenue from sticker sales will go to the Vendor, and the Vendor sets their own price for their stickers. (Any unsold stickers will be shipped to the Envelope Vendor after the convention, in their own Envelope- included as being part of a Vendor.) The “Envelope Vendor” program was designed with small content-creators in mind, who might not have access to create and fulfill physical products otherwise. Envelope Vendors will provide content for the digital Con-Book PDF, have dedicated channels in the server, and can promote personal store-fronts / commissions without offering any discount for Envelope Membership tiers.
 
@@ -11,9 +9,7 @@ Envelope Vendor opportunities are based on applications and approval by staff- t
 If you have questions about the Envelope Vendor program, or wish to apply to be an Envelope Vendor, please contact [Lucheek at AUSTINVANDERWILT@GMAIL.COM](mailto:austinvanderwilt@gmail.com).
 
 ## Artists / Creators (Free, World-Wide)
-- Applications Open until *(TBD)*
-- Limited Spots: *TBD Amount*
-- Includes Digital Envelope Membership
+<small class="text-muted">Applications Open until *(TBD)* &#8226; Limited Spots: *TBD Amount* &#8226; Includes Digital Envelope Membership</small>
 
 Artists/Creators will have spots on the RollyPolly Con website to promote their personal store-fronts, commissions, and/or other digital products, as well as shared section of the Discord Server for promotion of these products and services. RollyPolly Con will also help promote their work on social media leading up to the convention. Unlike Envelope Vendors, no part of creation/fulfillment of Artist's products or services is handled by RollyPolly Con.
 

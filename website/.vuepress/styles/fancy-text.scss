@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.text-muted {
+  color: var(--c-text-lightest);
+}
+
 .quote {
   font-style: italic;
   color: var(--c-text-light);
