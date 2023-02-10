@@ -4,7 +4,12 @@ export default {
     base: '/',
     title: 'RollyPolly Con',
     theme: defaultTheme({
-        logo: 'https://pbs.twimg.com/profile_images/1406981901563437062/4s2z3Csh_400x400.jpg',
+        // Not technical docs, don't want any of this nonsense.
+        editLink: false,
+        lastUpdated: false,
+        contributors: false,
+
+        logo: '/logo.jpg',
         navbar: [
             { text: 'Home', link: '/' },
             { text: 'About', link: '/about' },
