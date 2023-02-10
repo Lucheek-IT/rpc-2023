@@ -7,6 +7,7 @@ export default {
         logo: 'https://pbs.twimg.com/profile_images/1406981901563437062/4s2z3Csh_400x400.jpg',
         navbar: [
             { text: 'Home', link: '/' },
+            { text: 'About', link: '/about' },
             { text: 'Attend', link: '/attend.html', },
             { text: 'Schedule', link: '/schedule.html' },
             {
