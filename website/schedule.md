@@ -39,36 +39,7 @@ dayTwo:
 # Events, Panels, and Schedule
 
 ## Saturday, September 3rd
-<table>
-    <thead>
-    <tr>
-        <th scope="col">Time</th>
-        <th scope="col">Name</th>
-        <th scope="col">Run By</th>
-    </tr>
-    </thead>
-    <tbody>
-        <template v-for="event in $page.frontmatter.dayOne">
-            <tr>
-              <td v-html="event.name"></td>                
-              <td v-text="event.time" v-if="! event.timeExact"></td>
-              <td v-text="Intl.DateTimeFormat('en-US', {hour: 'numeric', minute: 'numeric', timeZoneName: 'short'}).format((new Date(event.time)))" v-if="event.timeExact"></td>
-              <td>
-                  <template v-for="(person, index) in event.people">
-                    <a v-bind:href="person.page">{{ person.name }}</a><span v-if="index != event.people.length - 1">, </span>
-                  </template>
-              </td>
-            </tr>
-            <tr>
-                <td colspan="3" v-html="event.description"></td>
-            </tr>
-        </template>
-    </tbody>
-</table>
+<EventTable :events="$page.frontmatter.dayOne"/>
 
 ## Sunday, September 4th
-
-|     Time | Topic                                                                | Presented By      |
-|---------:|----------------------------------------------------------------------|-------------------|
-|  9:00 AM | [Foo bar](/events/foo-bar.md)                                        | Somebody Cool     |
-| 10:00 AM | [Vestibulum et aliquet risus, quis volutpat lacus](/events/latin.md) | Emperor Nero      |
+<EventTable :events="$page.frontmatter.dayTwo"/>

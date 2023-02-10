@@ -1,4 +1,8 @@
 import { defaultTheme } from '@vuepress/theme-default'
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { getDirname, path } from '@vuepress/utils'
+
+const __dirname = getDirname(import.meta.url);
 
 export default {
     base: '/',
@@ -23,4 +27,9 @@ export default {
         ],
         sidebar: false,
     }),
+    plugins: [
+        registerComponentsPlugin({
+            componentsDir: path.resolve(__dirname, './components'),
+        }),
+    ],
 }
