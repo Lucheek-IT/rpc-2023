@@ -3,9 +3,9 @@
   padding: 1.2rem 0;
   display: flex;
   flex-wrap: wrap;
-  //align-items: flex-start;
   align-content: stretch;
   justify-content: space-between;
+  row-gap: 1rem;
 }
 
 .card-half {
@@ -21,7 +21,6 @@
 }
 
 .product-card {
-  margin-top: 1rem;
   border: var(--c-text-accent) solid 1px;
   padding: 1rem;
   font-size: small;
