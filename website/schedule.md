@@ -34,9 +34,29 @@ dayTwo:
   people:
   - name: Lucheek
     page: /person/lucheek.html
+- name: Coloring Page Cosplay Contest Judging
+  time: Morning (time TBD)
+  timeExact: false
+  description: |
+    Color and Draw a Costume or Cosplay onto our Mascot(s)! The winner will earn points for their Team!
+  people:
+  - name: Lucheek
+    page: /person/lucheek.html
+- name: Closing Ceremonies
+  time: Evening (time TBD)
+  timeExact: false
+  description: |
+    We'll say goodbye! This will include a wrap-up of convention events, plans and goals for our next event, and the announcement of the Winning Team, and then deciding the theme for the next event!
+  people:
+  - name: Lucheek
+    page: /person/lucheek.html
 ---
 
 # Events, Panels, and Schedule
+
+:::warning Under <em>Con</em>-struction!
+This is not the final schedule- events may be added, removed, or changed from what is shown here.
+:::
 
 ## Saturday, September 3rd
 <EventTable :events="$page.frontmatter.dayOne"/>
