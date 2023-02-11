@@ -46,9 +46,9 @@ When it's `true`, it expects the time to be in the format below so it can parse 
     Invaders are attacking your castle. Defend the gates!
   people:
   - name: Lucheek
-    page: /person/lucheek.html 
+    page: /people/lucheek.html 
   - name: Owls
-    page: /person/owls.html
+    page: /people/owls.html
 ```
 
 ## Hosting
