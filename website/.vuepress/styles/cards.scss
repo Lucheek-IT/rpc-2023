@@ -1,0 +1,49 @@
+.card-deck {
+  transition: border-color var(--t-color);
+  padding: 1.2rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: stretch;
+  justify-content: space-between;
+  row-gap: 1rem;
+}
+
+.card-half {
+  flex-grow: 1;
+  flex-basis: 44%;
+  max-width: 44%;
+}
+
+.card-full {
+  flex-grow: 1;
+  flex-basis: 100%;
+  max-width: 100%;
+}
+
+.product-card {
+  border: var(--c-text-accent) solid 1px;
+  padding: 1rem;
+  font-size: small;
+}
+
+.product-card h3 {
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.product-card h4 {
+  padding-top: 0;
+  margin-top: 0;
+  color: var(--c-text-lighter);
+  font-size: small;
+}
+
+/** Can't figure out how to get $MQNarrow, so hardcoding its value :v0v: */
+@media (max-width: 959px) {
+  .card-full, .card-half {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}

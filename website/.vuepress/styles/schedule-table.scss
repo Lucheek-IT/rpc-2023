@@ -1,0 +1,44 @@
+.schedule-table {
+  tbody {
+    tr {
+      border-top: none;
+      border-bottom: none;
+      background-color: var(--c-bg-light);
+    }
+
+    tr:nth-child(4n), tr:nth-child(4n-1) {
+      background-color: transparent;
+    }
+
+    tr:nth-child(2n) {
+      border-bottom: 1px solid var(--c-border-dark);
+    }
+
+    tr:nth-child(2n-1) td {
+      font-weight: bold;
+    }
+
+    tr:nth-child(2n-1) td:first-child {
+      border-right: 0;
+    }
+
+    tr:nth-child(2n-1) td:last-child {
+      border-left: 0;
+    }
+
+    tr:nth-child(2n-1) td:not(:last-child):not(:first-child) {
+      border-right: 0;
+      border-left: 0;
+    }
+
+
+    tr:nth-child(2n) td {
+      padding-bottom: 1rem;
+    }
+
+    td {
+      border-top: none;
+      border-bottom: none;
+    }
+  }
+}
