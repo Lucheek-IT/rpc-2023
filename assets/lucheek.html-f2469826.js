@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a00544fa","path":"/people/lucheek.html","title":"Lucheek","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Where to Find Lucheek","slug":"where-to-find-lucheek","link":"#where-to-find-lucheek","children":[]}],"git":{},"filePathRelative":"people/lucheek.md"}');export{e as data};
