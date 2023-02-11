@@ -9,7 +9,7 @@ Check back soon!
 <div class="card-deck">
     <div class="card-full product-card">
         <h3>General Attendance</h3>
-        <h4>Free, World-Wide</h4>
+        <h4>Free &#8226; World-Wide</h4>
         <p>Adults (age 18+) Only</p>
         <p>Requires absolute compliance with the RollyPolly Con Code of Conduct.</p>
         <hr>
@@ -21,10 +21,10 @@ Check back soon!
     </div>
     <div class="card-half product-card">
         <h3>Digital Envelope Membership</h3>
-        <h4>$10 USD, World-Wide</h4>
+        <h4>$10 USD &#8226; World-Wide</h4>
         <p>Discounted for “Team Punks (RPC '21)” ($5 USD)</p>
         <p>Discounted for Early Bird / Preregistration ($7 USD)</p>
-        <p>Free for Panelists, Streamers, and Artists</p>
+        <p style="padding-bottom: 3.6rem;">Free for Panelists, Streamers, and Artists</p>
         <hr>
         <h4>Includes</h4>
         <ul>
@@ -42,11 +42,12 @@ Check back soon!
     </div>
     <div class="card-half product-card">
         <h3>Physical Envelope Membership</h3>
-        <h4>$20 USD, USA Only</h4>
+        <h4>$20 USD &#8226; USA Only</h4>
         <p></p>
-        <p>Discounted for “Team Punks (RPC '21)” ($5 USD)</p>
-        <p>Discounted for Early Bird / Preregistration ($7 USD)</p>
-        <p>Free for Panelists, Streamers, and Artists</p>
+        <p>Discounted for “Team Punks (RPC '21)” ($15 USD)</p>
+        <p>Discounted for Panelists, Streamers, and Artists ($15 USD)</p>
+        <p>Discounted for Early Bird / Preregistration ($17 USD)</p>
+        <p>Free for Envelope Vendors</p>
         <hr>
         <h4>Includes</h4>
         <ul>
