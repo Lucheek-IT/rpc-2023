@@ -39,3 +39,11 @@
   color: var(--c-text-lighter);
   font-size: small;
 }
+
+/** Can't figure out how to get $MQNarrow, so hardcoding its value :v0v: */
+@media (max-width: 959px) {
+  .card-full, .card-half {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
