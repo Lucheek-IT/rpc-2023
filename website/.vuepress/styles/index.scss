@@ -5,3 +5,11 @@
 @use './buttons';
 @use './bio-images';
 @use './schedule-table';
+
+:root, html.dark {
+  --c-brand: #FD6444;
+  --c-brand-dark: #de2802;
+  --c-brand-darker: #7f1701;
+  --c-brand-light: #fe927c;
+  --c-brand-lighter: #fec1b4;
+}
