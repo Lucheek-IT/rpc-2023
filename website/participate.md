@@ -20,6 +20,22 @@ These spots are application-based (not first-come-first-serve), and are limited.
 If you have questions about the Artist/Creator program, or wish to apply to be an Artist/Creator, please
 contact [Lucheek at: AUSTINVANDERWILT@GMAIL.COM](mailto:austinvanderwilt@gmail.com).
 
+## Panelists / Streamers (Free, World-Wide)
+<small class="text-muted">Applications Open until *(TBD)* &#8226; Limited Spots: *TBD Amount* &#8226; Includes Digital Envelope Membership</small>
+
+Panelists / Streamers will host events during RollyPolly Con, either on their own outside streaming platform(s), or through Discord channels (text or video) with-in the convention's sever. These events will be featured in the RollyPolly Con schedule as part of our programming. Please keep in mind, if you plan on using an outside streaming platform, we ask that all panelists (and convention-goers) maintain adherence to our Code of Conduct there too! Panelists/Streamers will be given a free Digital Envelope Membership, and promotion of their event before and through the convention. They may also contribute to the Con-Book, if desired.
+
+Send your idea / pitch for an event you'd like to host at RollyPollly Con to [Lucheek at: AUSTINVANDERWILT@GMAIL.COM](mailto:austinvanderwilt@gmail.com)!
+
+Here are some things we are actively looking for, though if you have an idea for something else you think would be fun and engaging for con-goers, don't hesitate to pitch it!
+
+- Interactive Video Game Competitions we can link to the Con Competitions
+- Table-Top RPG or Board Game Play-Through we can link to the Con Competition
+- Music you've Created, for our Musical Showcase / Dance
+- Informative and Fun Panels about Creative, Historical or “Pop-Culture” Topics
+- Workshops, How-To's, or Follow-Along Creative Panels
+- Guided and Active Meet-Ups for Groups of Interest and Friend-Making
+
 ## Staff / Moderator Volunteer
 RollyPolly Con is also looking for STAFF MEMBERS to help regulate and moderate the convention, especially while Lucheek is asleep or away. Staff Members can also help run and organize the convention.
 

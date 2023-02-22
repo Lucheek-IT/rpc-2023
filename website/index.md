@@ -1,9 +1,9 @@
 ---
 home: true
 title: Home
-description: Robots v Cryptids! September 3 - 4, 2023
+description: Robots v Cryptids! September 2 - 3, 2023
 heroText: null
-tagline: Join us online on September 3 & 4!
+tagline: Join us online on September 2 & 3!
 heroImage: /home-banner.jpg
 # heroImageDark: 
 footerHtml: true

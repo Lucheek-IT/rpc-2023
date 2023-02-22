@@ -58,8 +58,8 @@ dayTwo:
 This is not the final schedule- events may be added, removed, or changed from what is shown here.
 :::
 
-## Saturday, September 3rd
+## Saturday, September 2nd
 <EventTable :events="$page.frontmatter.dayOne"/>
 
-## Sunday, September 4th
+## Sunday, September 3th
 <EventTable :events="$page.frontmatter.dayTwo"/>
